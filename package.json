@@ -1,5 +1,5 @@
 {
-    "name": "quill-image-uploader",
+    "name": "quill-image-uploader-fork",
     "version": "1.2.4",
     "repository": "https://github.com/noeloconnell/quill-image-uploader.git",
     "description": "A module for Quill rich text editor to allow images to be uploaded to a server instead of being base64 encoded",
@@ -45,6 +45,6 @@
         "webpack-dev-server": "3.11.3"
     },
     "peerDependencies": {
-        "quill": "^1.3.7"
+        "quill": "github:quilljs/quill#develop"
     }
 }
